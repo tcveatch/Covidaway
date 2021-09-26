@@ -1,4 +1,4 @@
-# Covidaway: Covid Act: Watch it Approaching You
+# Covid-AWAY: Act, Watch it Approaching You
 
 An app to track the approach of covid on the graph of network connections including you and those you spend time with.
 
