@@ -1,5 +1,6 @@
-# Covidaway
-App to track the approach of covid on the graph of network connections including you and those you spend time with.
+# Covidaway: Covid Act: Watch it Approaching You
+
+An app to track the approach of covid on the graph of network connections including you and those you spend time with.
 
 Below is an email between Tom Veatch and Yew Tai Pan:
 
